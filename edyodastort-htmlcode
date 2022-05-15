@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/5691e18530.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+    <title>Edyoda stories</title>
+</head>
+<body>
+  <header id="header">
+    <a href="/">
+    <div>
+      <div class="main-logo">
+        EDyoda</div>
+      <p class="story">Stories</p>
+    </div>
+    </a>
+    <div class="cate-wrap">
+      <a href="#">  <span class="explore"> Explore Categories</span></a>
+      <i class="fa-thin fa-square-chevron-down"></i>
+    </div>
+    </header>
+  <div class="categories">
+    <div class="cat-heading">
+      <h1>Categories</h1></div>
+    <div class="post">
+      <h2>Trending Posts</h2>
+       </div>
+    <div class="filter">
+      <span>Filter by category</span>
+    </div>
+    <a href="#"><div class="filter-wrap">
+      <span class="wrap active" >All</span>
+            <span class="wrap">Machine Learning</span>
+            <span class="wrap">Lamp Stack</span>
+            <span class="wrap">Cloud Computing</span>
+            <span class="wrap">Data Backup</span>
+            <span class="wrap">Cyber Security</span>
+      <span class="wrap">Big Data Analytic</span></br></br>
+  <span class="wrap">Other</span></a>
+
+
+
+
+
+
+
+      
+      
+    </div>
+    
+  </div>
+  <main>
+  <div class="main"> 
+   
+     <a href="#"> <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/learn_machine_learning_courses_online.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>Introduction To A Machine Learning ...</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>We have had an insight into Artificial Intelligence. Well, one of its subfields is machine learning and this introduction will help you get a fair idea of what a machine learning online course holds... </p>
+            </div>
+        
+      </section>
+          
+          
+          
+          
+          
+          
+          <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/6.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>LAMP Stack Vs MEAN stack:..
+</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>In today’s dynamic world, rapid web application development with a smooth user interface that can adapt to specific features is the main business requirement. is the main business requirement.... </p>
+            </div>
+        
+      </section>
+          
+          
+          
+          
+          <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/4.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>Impact of Cloud Computing in var...
+</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>Cloud computing has been rapidly gaining pace in the world of information technology. It has been observed that over 90% of global enterprises are using cloud technology as part of their business.   </p>
+            </div>
+        
+      </section>
+         
+           
+              
+          
+          
+            </div>
+            
+            
+            
+            
+            
+            <div class="main"> 
+   
+      <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/7.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>Importance of Data Backup...
+</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>A business must always introspect the areas where they lack in order to bring about a positive change in the work environment. One of the main precautions or a contingency plan that is necessary ...
+ </p>
+            </div>
+        
+      </section>
+          
+          
+          
+          
+          
+          
+          <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/5.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>Breaking the Myths ...
+
+</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>As the dependency on online platforms is increasing daily, cybersecurity is becoming an important concern for all companies today. The number of cyberattacks is ever-rising even after adopting    </p>
+            </div>
+        
+      </section>
+          
+          
+          
+          
+          <section class="card" >
+        <div class="card-img">
+          <img src="https://edyoda.s3.amazonaws.com/media/blog-images/3.png" alt="img1">
+         </div>
+        <div class="card-title">
+          <h2>Challenges of Machine Learning ..
+
+</h2>
+          <div>
+            <div class="author">
+              <span class="author1">Edyoda</span>
+              <span class="date"> 15 may 2022</span>
+              
+            </div>
+            <div class="card-des">
+              <p>Machine Learning is a subset of artificial intelligence which is an important part of computer science. The revolution of Big Data promises to transform the ..... </p>
+            </div>
+        
+      </section>
+          </a>
+           
+              
+          
+          
+            </div>
+    
+          
+          
+          
+  </main>
+          <footer class="footer">
+            <span style="color:#fff;">Edyoda Devloper program</span>
+            <span style="float:right; color:#fff;">www.edyoda.com</span>
+            
+            
+          </footer>
+</body>
+</html>
